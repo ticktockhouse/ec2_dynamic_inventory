@@ -6,4 +6,6 @@ There are some pull requests kicking about which allow the ec2.py script to use 
 
 I have hacked the files in the standard ansible distribution and am hosting them here for convenience. Please let me know if there are any licensing concerns associated with this.
 
+More info on how to use the ec2 dynamic inventory code [here](http://docs.ansible.com/ansible/guide_aws.html)
+
 The PRs in question are: [here](https://github.com/ansible/ansible/pull/7395) and [here](https://github.com/ansible/ansible/pull/15526/commits/413afa74e7436b04ea136242b97c20d9109ecb59)
